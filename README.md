@@ -26,7 +26,7 @@ Ensure you have Node.js and npm installed on your machine. If not, download and 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/LearnEase.git
+   git clone https://github.com/Ragulprince/LearnEase-Gemini.git
 1.  **Navigate to the project directory**:
 
 
