@@ -64,7 +64,7 @@ Ensure you have Node.js and npm installed on your machine. If not, download and 
 3.  **Listen** to the answers in your preferred language.
 4.  **View and download summaries** of long texts or entire websites.
 5.  **Explore images** generated based on your learning materials.
-6.  **Track your progress** with the learning history feature.
+6.  **Track your progress** with the learning history feature
 
 🚀 Contributing
 ---------------
